@@ -1,1 +1,1 @@
-VkBridge
+FurAffinityBridge
